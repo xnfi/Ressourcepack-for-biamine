@@ -186,6 +186,13 @@
           "model": "cosmetics:item/hat/heartballoon/heartballoon"
         }
       }
+      {
+        "when": "balloon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/balloon/balloon"
+        }
+      }
     ],
     "fallback": {
       "type": "minecraft:model",
